@@ -101,7 +101,7 @@ export default function Background() {
       >
         <div 
           className="absolute bottom-[-5%] w-full h-[70%] bg-cover bg-bottom opacity-20 contrast-125 saturate-50 mix-blend-screen"
-          style={{ backgroundImage: 'url("/mosque_bg.png")' }}
+          style={{ backgroundImage: 'url("/webiedmubarak1447/mosque_bg.png")' }}
         />
         {/* Soft fog overlay */}
         <div className="absolute bottom-0 w-full h-1/3 bg-gradient-to-t from-[#021a16] via-[#021a16]/40 to-transparent" />
